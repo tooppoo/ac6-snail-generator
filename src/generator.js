@@ -1,4 +1,4 @@
-import { badmouthes, snail } from "./data";
+import { badmouthes, snail } from "./data.js";
 
 const pairs = badmouthes.reduce(
     (xs, bm) => [
